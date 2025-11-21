@@ -1,2 +1,3 @@
 # demo
-my fist repository demo
+My first repository demo
+author - Saurabh Patel
